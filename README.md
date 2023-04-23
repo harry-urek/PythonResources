@@ -21,4 +21,10 @@
 <li>[Py IN Practical Way](https://github.com/dabeaz-course/practical-python)</li>
 <li>[Py Excersise -Practice](https://github.com/zhiwehu/Python-programming-exercises)</li>
 <li>[LEarn Python REpo ALL-IN-ONE](https://github.com/adrianmoisey/learn-python)</li>
+<li>[Py refrence](https://github.com/rasbt/python_reference)</li>
+<li>[Quick Run Py](https://github.com/joaoventura/full-speed-python)</li>
+<li>[Py code run down](https://github.com/trekhleb/learn-python)</li>
+<li>[Py Project](https://github.com/practical-tutorials/project-based-learning#python)</li>
+<li></li>
+
 </ul>
